@@ -1,10 +1,10 @@
-> whoami
+#whoami
 👩‍💻 Joanne Fernando  
 🎓 Computer Science Undergraduate @ University of Colombo School of Computing  
 💼 Business Analyst Intern @ IronOne Technologies  
 🔍 Passionate about bridging business needs with tech solutions
 
-> skills --list
+#skills --list
 
 # Documentation
 - User Stories
