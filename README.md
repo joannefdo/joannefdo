@@ -1,16 +1,34 @@
-## Hi there 👋
+> whoami
+👩‍💻 Joanne Fernando  
+🎓 Computer Science Undergraduate @ University of Colombo School of Computing  
+💼 Business Analyst Intern @ IronOne Technologies
 
-<!--
-**joannefdo/joannefdo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> skills --list
 
-Here are some ideas to get you started:
+📁 Documentation
+├── User_Stories
+├── SRS
+├── BRD
+├── API_Documentation
+├── Model_Documentation
+└── User_Manuals
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📁 Process_Modeling
+├── BPMN
+└── UML
+
+📁 Data_Analysis
+├── Microsoft_Excel
+├── Power_BI
+└── SQL
+
+📁 Languages_and_Frameworks
+├── Python
+├── Java
+├── JavaScript
+├── HTML/CSS/PHP
+├── React
+└── Java_Spring_Boot
+
+> connect --linkedin
+🌐 [linkedin.com/in/joanne-fernando](https://linkedin.com/in/joanne-fernando)
