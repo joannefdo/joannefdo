@@ -6,27 +6,27 @@
 
 > skills --list
 
-📁 Documentation
-├── User_Stories
-├── SRS
-├── BRD
-├── API_Documentation
-├── Model_Documentation
-└── User_Manuals
+# Documentation
+- User Stories
+- SRS (Software Requirements Specification)
+- BRD (Business Requirements Document)
+- API Documentation
+- Model Documentation
+- User Manuals
 
-📁 Process_Modeling
-├── BPMN
-└── UML
+# Process Modeling
+- BPMN
+- UML
 
-📁 Data_Analysis
-├── Microsoft_Excel
-├── Power_BI
-└── SQL
+# Data Analysis
+- Microsoft Excel
+- Power BI
+- SQL
 
-📁 Languages_and_Frameworks
-├── Python
-├── Java
-├── JavaScript
-├── HTML/CSS/PHP
-├── React
-└── Java_Spring_Boot
+# Languages and Frameworks
+- Python
+- Java
+- JavaScript
+- HTML/CSS/PHP
+- React
+- Java Spring Boot
