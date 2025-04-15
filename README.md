@@ -1,7 +1,6 @@
 # whoami
-👩‍💻 Joanne Fernando
-- Computer Science Undergraduate @ University of Colombo School of Computing
-- Business Analyst Intern @ IronOne Technologies
+👩‍💻 Computer Science Undergraduate @ University of Colombo School of Computing  
+💼 Business Analyst Intern @ IronOne Technologies
 
 
 # skills --list
