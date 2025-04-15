@@ -6,7 +6,7 @@
 # skills --list
 
 📂 Documentation:
-\- User Stories
+- User Stories
 - SRS (Software Requirements Specification)
 - BRD (Business Requirements Document)
 - API Documentation
