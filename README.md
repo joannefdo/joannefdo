@@ -1,8 +1,8 @@
 # whoami
-Joanne Fernando  
-👩‍💻 Computer Science Undergraduate @ University of Colombo School of Computing  
-💼 Business Analyst Intern @ IronOne Technologies  
-🔍 Passionate about bridging business needs with tech solutions
+👩‍💻 Joanne Fernando
+- Computer Science Undergraduate @ University of Colombo School of Computing
+- Business Analyst Intern @ IronOne Technologies
+
 
 # skills --list
 
@@ -12,7 +12,7 @@ Joanne Fernando
 - BRD (Business Requirements Document)
 - API Documentation
 - Model Documentation
-- ser Manuals
+- User Manuals
 
 🔄 Process Modeling:
 - BPMN
